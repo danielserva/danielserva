@@ -4,7 +4,7 @@ I'm **Daniel Serva**, an experienced **Software Engineer** with over 15 years of
 ---
 
 ## 🌟 **About Me**  
-- 🔧 **Backend Engineering Specialist**: Proficient in **Java**, **Spring Boot**, and **microservices architecture**.  
+- 🔧 **Backend Engineering Specialist**: Proficient in **Java**, **Python**, **Golang**, **Solidity**, and **microservices architecture**.  
 - ☁️ **Cloud Enthusiast**: Extensive experience with **AWS**, **Azure**, **Kubernetes**, and **Docker**.  
 - 📜 **Certified Professional**:  
   - **Hyperledger Fabric Certified Practitioner**  
